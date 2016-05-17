@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Herman J. Radtke III <herman@hermanradtke.com>"]
 
 [dependencies]
-nickel = "0.8.*"
+nickel = "0.8.1"
